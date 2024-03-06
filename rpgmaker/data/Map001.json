@@ -1,0 +1,1150 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 17,
+  "data": [
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "試玩劇情",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [["看劇情喔", "進戰鬥喔"], -1, 0, 1, 1]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "看劇情喔"] },
+            { "code": 123, "indent": 1, "parameters": ["A", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "進戰鬥喔"] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["這是一個最好的時代……"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["同時，也是最壞的時代。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "孩中市，一個繼承了悠久的歷史，邁向嶄新未來的地方。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["形形色色的大叔們在此追逐著夢想。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "然而，那些躲藏在歷史的陰影中，以榨乾大叔為己任的存在，也進入了孩中市。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["啊……MSGK！味精騎士團！"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["他們的惡名令無數大叔們顫抖！"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["品味精子，騎在男士身上的團體！"]
+            },
+            { "code": 108, "indent": 0, "parameters": ["插入反派立繪"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["沒有人知道他們是從哪裡出現的。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["也沒有人知道他們是從何時就陪伴於大叔左右……"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["唯一能夠知道的是，當人們回首歷史才發現。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["他們潛伏在歷史的陰影中，推動事件改變。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            { "code": 401, "indent": 0, "parameters": ["無論是引起戰爭……"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "figures/msgk-queen",
+                0,
+                0,
+                400,
+                0,
+                100,
+                100,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 620, 0, 100, 100, 255, 0, 45, false, 0]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2, "池西太后"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「列強都是雜魚！雜魚！」"]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 620, 0, 100, 100, 0, 0, 30, true, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            { "code": 401, "indent": 0, "parameters": ["發現新大陸……"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "figures/msgk-colombo",
+                0,
+                0,
+                680,
+                0,
+                -100,
+                100,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [
+                1,
+                0,
+                0,
+                0,
+                450,
+                0,
+                -100,
+                100,
+                255,
+                0,
+                45,
+                false,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2, "哥倫破布"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「讓我們征服遙遠國度的大叔雞雞！」"]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 450, 0, -100, 100, 0, 0, 30, true, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            { "code": 401, "indent": 0, "parameters": ["推動技術革命……"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "figures/msgk-edison",
+                0,
+                0,
+                500,
+                0,
+                100,
+                100,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 700, 0, 100, 100, 255, 0, 45, false, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "愛精生"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「所謂的大叔，就是99%的雞雞加上1%的人權唷！」"]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 700, 0, 100, 100, 0, 0, 30, true, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["甚至，涉足了表面歷史所不知道的神秘──"]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2, "守護智慧之獸"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「噗噗──人類都是不敢吃禁果的雜魚～雜魚～」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "大叔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「饒、饒命啊啊啊啊啊！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["但是，就是在這樣的絕望之中，"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["一群良心發現的味精騎士團成員脫離了組織。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "儘管他們還是會從大叔身上榨取精液，但是（比較）會站在大叔這邊。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "洨智"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「大叔不是家畜，是朋友！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "蘿克"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「神不只給了大叔一根雞雞，還給了他們被尊重的權利！」"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2, "蘇格蘿底"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「我唯一知道的就是，現在人家下面沒有大叔的雞雞！」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["繼承了這些先賢的黃精精神，"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["如今的孩中市分局中，迎來了一名未來之星。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「耶嘿～這下我就有榨精執行權囉！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「聽說這邊的犯罪率很高，有著很棒雞雞的大叔肯定也很多吧！」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["然而，這會是一個災星，還是警界明星，還尚未得知……"]
+            },
+            { "code": 108, "indent": 0, "parameters": ["背景淡入"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "police-station", 0, 0, 0, 0, 100, 100, 0, 0]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 120, true, 1]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["鈴鈴鈴鈴鈴、鈴鈴鈴鈴鈴──"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "figures/20230904-1",
+                0,
+                0,
+                624,
+                0,
+                50,
+                50,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 576, 0, 50, 50, 255, 0, 20, false, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「喵的咧，是在吵什麼！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「麗塔幹員，請你控制好你自己的嘴。而且現在也不是睡午覺的時間。」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「噗噗，人家才不要聽你說教。」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "（雖然早就從文件中知道了，但是這次的新幹員是真的不太受控。）"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "（總覺得麗塔幹員就算是犯罪組織的臥底，也不太意外……）"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "（不過，如果真的是臥底，大概不會表現得這麼明顯吧……應該。）"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「總之，案件來了，請麗塔幹員立刻準備出動。」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            { "code": 401, "indent": 0, "parameters": ["「喔……嚼嚼嚼……」"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「根據萬國精庫的通報，有人侵入了精子倉庫中。」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「速這樣喔……嚼嚼……」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「所以請麗塔幹員立刻前往現場。」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「好啦好啦，再怎麼說我都是個可愛的條子，這點事情我還是會做的──呸。」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "麗塔把口中的東西吐了出來，隨手黏在隔壁同事的辦公桌上。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "那是一個沾滿口水的保險套，其中似乎還殘留著一點白色的液體。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「等等，這個東西我好像在哪看過──」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「麗塔幹員！你是不是動了證物室裡面的東西！」"]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 1152, 0, 50, 50, 0, 0, 40, false, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「啦啦啦啦啦，人家聽不到！麗塔現在要出任務啦！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "分局長"] },
+            { "code": 401, "indent": 0, "parameters": ["「麗塔幹員！」"] },
+            { "code": 108, "indent": 0, "parameters": ["背景淡出"] },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 0, 0, 60, true, 1]
+            },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "bank-vault", 0, 0, 50, 0, 100, 100, 0, 0]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, true, 2]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "figures/20230904-1",
+                0,
+                0,
+                -448,
+                -8,
+                50,
+                50,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 144, 0, 50, 50, 255, 0, 30, false, 2]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「哼哼～萬國精庫就在這邊吧？嗚啊……真是一團亂呀！」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「讓開讓開，本條子來囉！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "麗塔秀出自己的警徽，推開了看熱鬧的人們，進入了萬國精庫中。"
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 312, 0, 50, 50, 255, 0, 20, false, 2]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「嗅嗅──有了！我聞到犯罪的味道了！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「這麼濃厚的精臭味……看來精庫是被打開了呢！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["麗塔的鼻尖抽動了幾下，很快就鎖定了目的地。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "而在大大敞開的精庫門口，一個下半身光溜溜的警衛躺在一攤體液中抽蓄著。"
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 312, -40, 50, 50, 255, 0, 10, true, 0]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 312, 0, 50, 50, 255, 0, 10, false, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「喂！你就是在這邊工作的傢伙吧！別在那邊發抖了，快跟警察姊姊我說說發生了什麼事情！」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "警衛"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「嗚、嗚哇！你、你們這群惡鬼！」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「好了好了，別再哭了，快點把褲子穿起來然後再說話喔。」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "警衛"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「啊啊啊啊，別再榨乾我了！我甚麼都不知道！不要再靠過來了啊啊啊啊啊啊啊！」"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "警衛似乎受到了很大的打擊，看到麗塔現身就像是看到了鬼一樣。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["不只不願意合作，還握緊了拳頭。"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「哼哼，看來不用點『手段』你是不會合作的……」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "「那就放馬過來吧，在上班地點被榨精的可悲大叔警衛！」"
+              ]
+            },
+            { "code": 123, "indent": 0, "parameters": ["B", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 283, "indent": 0, "parameters": ["bank-vault", ""] },
+            { "code": 301, "indent": 0, "parameters": [0, 1, false, true] },
+            { "code": 601, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "警衛"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「嗚、嗚哇啊啊啊啊啊啊！」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「好了好了，別哭了！這樣會讓我慾火焚身啦。」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「現場到底發生了什麼事情呢？大叔？」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "警衛"] },
+            { "code": 401, "indent": 1, "parameters": ["「那、那個怪盜──」"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1, ""] },
+            { "code": 401, "indent": 1, "parameters": ["啪！"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "一個用過的保險套像是橡皮筋一樣射中了警衛的側腦，警衛就這樣失去意識倒下了。"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [
+                2,
+                "figures/20230904-1",
+                0,
+                0,
+                324,
+                0,
+                50,
+                50,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 300, 0, 50, 50, 255, 0, 10, true, 0]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 324, 0, 50, 50, 255, 0, 10, true, 0]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 312, 0, 50, 50, 255, 0, 10, false, 0]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            { "code": 401, "indent": 1, "parameters": ["「是誰！」"] },
+            { "code": 108, "indent": 1, "parameters": ["立繪：怪盜小鬼"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "「呀哈哈，真是無能的警察啊……我都洗好了澡你們才趕到。」"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「怪盜……！你就是榨乾了警衛大叔的人嗎？」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "「呼呼，回答大叔走狗可不是我的風格……不過，他的精液用來潤潤喉可還不錯唷！」"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "在怪盜登場的金庫門後，可以看見一個滿是精液的澡盆。"
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 312, -40, 50, 50, 255, 0, 10, true, 0]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 312, 0, 50, 50, 255, 0, 10, false, 0]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「居然做出了這麼令人羨慕的事情！可惡！」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "「哈哈哈哈，那些不過是我的洗澡水而已，想喝的話就全部給你吧！」"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「至於優雅的怪盜我，現在則是要離開現場囉！」"]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 300, 0, 50, 50, 255, 0, 10, true, 0]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 324, 0, 50, 50, 255, 0, 10, true, 0]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, 312, 0, 50, 50, 255, 0, 10, false, 0]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            { "code": 401, "indent": 1, "parameters": ["「等等，別走！」"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「本怪盜亞爾斯羅華麗的消失秀，現在開始──！」"]
+            },
+            { "code": 123, "indent": 1, "parameters": ["C", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 603, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "警衛"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「你們這群披著人皮的野獸！給我讓開啊啊啊啊啊！」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["沒穿褲子的警衛甩開了麗塔，就這樣跑出銀行了。"]
+            },
+            {
+              "code": 232,
+              "indent": 1,
+              "parameters": [2, 0, 0, 0, -400, 0, 50, 50, 0, 0, 40, false, 0]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "麗塔"] },
+            { "code": 401, "indent": 1, "parameters": ["「等、等等我啊！」"] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            { "code": 401, "indent": 1, "parameters": ["「……」"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「這麼無能的條子我還是第一次看到。」"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2, "怪盜"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["「這樣我準備好的逃跑手段不就派不上用場了嗎？」"]
+            },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 604, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "C",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 301, "indent": 0, "parameters": [0, 2, false, true] },
+            { "code": 601, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 603, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 604, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "怪盜華麗地鞠躬，隨著驚人的爆炸聲和煙霧，怪盜完全消失了蹤影。"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, "麗塔"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["「不可饒恕……！居然搶在我之前……」"]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 0, "parameters": ["D", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 354, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        }
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

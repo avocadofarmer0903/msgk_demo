@@ -1,0 +1,222 @@
+[
+  null,
+  {
+    "id": 1,
+    "members": [{ "enemyId": 1, "x": 640, "y": 532, "hidden": false }],
+    "name": "試玩大叔戰",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          { "code": 401, "indent": 0, "parameters": ["進入戰鬥了！"] },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "麗塔有著特殊的交涉技術，可以透過言語攻陷對方的心防。"
+            ]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "用麗塔的罵倒方塊填滿目標的內心方塊中，藉此獲得戰鬥的勝利吧！"
+            ]
+          },
+          { "code": 115, "indent": 0, "parameters": [] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 2,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["當然，敵人也不會單純地被麗塔羞辱。"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["每經過一定次數的行動，敵人就會生成新的攻擊方塊。"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "每次行動都會讓攻擊方塊倒數，當倒數到0且沒有被消除時，敵人就會對麗塔造成傷害或是負面影響！"
+            ]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2, ""] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "請在填滿對方的內心方塊，或是阻止攻擊方塊的倒數中取得平衡，贏得遊戲的勝利。"
+            ]
+          },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "members": [{ "enemyId": 2, "x": 640, "y": 532, "hidden": false }],
+    "name": "必敗大叔戰",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  }
+]
