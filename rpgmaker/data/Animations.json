@@ -6,7 +6,7 @@
     "alignBottom": false,
     "effectName": "",
     "flashTimings": [],
-    "name": "",
+    "name": "暫停用",
     "offsetX": 0,
     "offsetY": 0,
     "rotation": { "x": 0, "y": 0, "z": 0 },
@@ -14,5 +14,34 @@
     "soundTimings": [],
     "speed": 100,
     "timings": []
+  },
+  {
+    "id": 2,
+    "displayType": 0,
+    "alignBottom": false,
+    "effectName": "CureAll1",
+    "flashTimings": [],
+    "name": "魔法方塊",
+    "offsetX": -72,
+    "offsetY": 48,
+    "rotation": { "x": 0, "y": 0, "z": 0 },
+    "scale": 50,
+    "soundTimings": [],
+    "speed": 20,
+    "timings": []
+  },
+  {
+    "id": 3,
+    "displayType": 0,
+    "alignBottom": false,
+    "effectName": "LightPillar1",
+    "flashTimings": [],
+    "name": "星光綻放",
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": { "x": 0, "y": 0, "z": -90 },
+    "scale": 100,
+    "soundTimings": [],
+    "speed": 100
   }
 ]
