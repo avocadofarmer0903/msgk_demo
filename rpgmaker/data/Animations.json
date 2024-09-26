@@ -43,5 +43,20 @@
     "scale": 100,
     "soundTimings": [],
     "speed": 100
+  },
+  {
+    "id": 4,
+    "displayType": 0,
+    "alignBottom": false,
+    "effectName": "LightOne2",
+    "flashTimings": [],
+    "name": "方塊爆炸",
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": { "x": 0, "y": 0, "z": 0 },
+    "scale": 50,
+    "soundTimings": [],
+    "speed": 100,
+    "timings": []
   }
 ]
